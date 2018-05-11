@@ -3,10 +3,11 @@ img {
 }
 body {
     text-align: center;
-}
-body {
-    text-align: center;
     font-family: "Courier New";
-    background: #355e3b;
+    background: #4B9546;
     color: white;
+}
+a{
+    text-align: center;
+    font-family: "Courier New"
 }
